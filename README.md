@@ -1,2 +1,2 @@
-# PersonalProjects
-Repository containing personal projects
+# Other Projects:
+Repository containing other projects.
